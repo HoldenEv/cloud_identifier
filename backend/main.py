@@ -124,6 +124,7 @@ def main():
                 img_size=img_size, 
                 class_names=class_names
             )
+            
         
         print(f"\nPrediction: {predicted_class} (Confidence: {confidence:.2f})")
     else:
