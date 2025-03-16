@@ -11,5 +11,5 @@ Backend:
   1. python app.py
 
 
-Data Source:
+Data Source: (download this dataset and put it in root or change path in backend/main.py)
 https://www.kaggle.com/datasets/nakendraprasathk/cloud-image-classification-dataset?resource=download
